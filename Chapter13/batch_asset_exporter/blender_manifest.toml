@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id = "batch_asset_exporter"
+version = "1.0.0"
+name = "Batch Asset Exporter"
+tagline = "Export each object in a collection to its own glTF file"
+maintainer = "Your Name <you@example.com>"
+type = "add-on"
+
+blender_version_min = "5.1.0"
+license = ["SPDX:GPL-3.0-or-later"]
